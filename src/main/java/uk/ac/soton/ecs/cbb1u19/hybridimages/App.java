@@ -9,10 +9,6 @@ import org.openimaj.image.FImage;
 import org.openimaj.image.ImageUtilities;
 import org.openimaj.image.MBFImage;
 
-/**
- * OpenIMAJ Hello world!
- *
- */
 public class App {
 
     
